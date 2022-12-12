@@ -52,6 +52,9 @@ func main() {
 
 	}
 
+	var s int
+	var z float64
+
 	fmt.Printf("Marks: %d", grades)
 	fmt.Printf("Marks: %.2f", grades2)
 
@@ -59,5 +62,7 @@ func main() {
 	fmt.Println(fullname)
 	fmt.Println(x + y - z)
 	fmt.Println(a + n - 19)
+	fmt.Println(s)
+	fmt.Printf(".2f", z)
 
 }
