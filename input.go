@@ -1,3 +1,8 @@
+/*
+This program describes how to take input from answer.
+use scanf
+*/
+
 package main
 
 import "fmt"
